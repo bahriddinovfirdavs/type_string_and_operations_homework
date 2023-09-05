@@ -7,6 +7,4 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    first="Bahriddinov "
-    last="Firadsv"
     return first+last
