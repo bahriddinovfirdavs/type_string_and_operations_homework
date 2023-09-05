@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    a="*"
-    return a*5
+    a="*****"
+    return a
