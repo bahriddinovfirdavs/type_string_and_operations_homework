@@ -6,5 +6,7 @@ def main(x,y):
         y: int
     Returns:
         str: return answer.
+
     """
-    return (x+y)*2
+    answer=(x+y)*2
+    return f"({x}+{y})*2={answer}" 
