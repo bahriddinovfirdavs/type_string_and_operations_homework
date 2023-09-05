@@ -7,6 +7,4 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return '''s1
-s2
-'''
+    return ''' '''
