@@ -7,5 +7,5 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    a=s*n
+    a='s'*n
     return a
